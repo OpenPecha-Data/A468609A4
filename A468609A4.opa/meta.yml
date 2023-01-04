@@ -1,0 +1,19 @@
+id: A468609A4
+title: Supplication to Milarepa
+type: translation
+pechas:
+- I4D2F2114
+- IE32A2228
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:38:30.924137
+  last_modified_at: 2023-01-04 11:38:30.924148
+  collections:
+  - Dilgo Khyentse Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I4D2F2114/1CCB: 9F05
+  IE32A2228/0044: 9F05
